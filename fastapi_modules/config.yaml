@@ -1,0 +1,9 @@
+
+request_paths:
+  health_requests: "https://www.healthcare.gov/api/index.json"
+  models_requests: "https://api.openf1.org/v1/drivers?session_key=9160"
+
+outbounds:
+  completion_posts: "completions.json"
+
+

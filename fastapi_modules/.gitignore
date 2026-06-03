@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Type checking
+.mypy_cache/
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
