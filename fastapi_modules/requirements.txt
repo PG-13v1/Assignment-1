@@ -48,3 +48,7 @@ urllib3==2.7.0
 virtualenv==21.3.3
 pytest>=8.0.0
 pytest-cov>=5.0.0
+fastapi[standard]
+uvicorn
+httpx
+pytest-asyncio
