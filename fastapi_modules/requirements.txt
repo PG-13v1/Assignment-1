@@ -52,3 +52,4 @@ fastapi[standard]
 uvicorn
 pytest-asyncio
 PyJWT
+pytest-mock
